@@ -18,7 +18,7 @@ Imports: grDevices, stats, mvtnorm, orthopolynom, parallel, deSolve,
         ggplot2, reshape2, glmnet, igraph, scales, patchwork
 Encoding: UTF-8
 LazyData: true
-Depends: R (>= 3.50)
+Depends: R (>= 3.5.0)
 RoxygenNote: 7.2.1
 Suggests: 
     covr,
